@@ -1,5 +1,5 @@
 # Projeto Integrador com Atividades de Curricularização da Extensão
-**2º Semestre 2026 – 2º Termo ADS | FATEC Lins**
+**1º Semestre 2026 – 2º Termo ADS | FATEC Lins**
 
 ---
 
